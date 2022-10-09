@@ -1,0 +1,11 @@
+.node-label {
+  font-size: 12px;
+  padding: 1px 4px;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.7);
+  user-select: none;
+}
+
+.node-label::hover {
+  visibility: hidden;
+}
