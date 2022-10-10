@@ -44,4 +44,10 @@ date: 2021-05-22
 
 <script src="./static/js/3d-graph.js" type="module"></script>
 ```
+## Recent Posts
+
+<!-- NOTE: Forward folge # is essential for RSS -->
+[[z:zettels?tag=zettel&limit=10&timeline]]#
+
+[[zettel|See more]]
 
